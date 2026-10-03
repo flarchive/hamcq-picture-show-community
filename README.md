@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of hamcq/picture-show-community.** Not for installation: use [Packagist](https://packagist.org/packages/hamcq/picture-show-community) or the [upstream repository](https://github.com/HamCQ/flarum-ext-card-show-community).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/hamcq-picture-show-community/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/hamcq-picture-show-community/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-11-23 | `^1.2.0` | [Browse](https://github.com/flarchive/hamcq-picture-show-community/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/hamcq-picture-show-community.json](https://github.com/flarchive/archive-index/blob/main/packages/hamcq-picture-show-community.json)
 
